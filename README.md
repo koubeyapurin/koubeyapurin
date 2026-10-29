@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./profile/header.svg" alt="koubeyapurin" width="100%">
+  <img src="./profile/typing.svg" alt="JPHACKS 2026 / Open Hack U 2025 ・ エンジニアインターン">
+</div>
+
 # koubeyapurin
 
 大学で情報工学を学びながら、Web アプリ・AI を使ったツール・新規事業の提案をつくっています。
@@ -19,9 +24,21 @@
 ## 使っている技術
 
 - **自分で書いたもの**: TypeScript / JavaScript / Python(Flask)/ HTML・CSS / Chrome 拡張(WXT)/ VS Code 拡張
+
+  <img src="./profile/skills.svg" alt="TypeScript, JavaScript, Python, Flask, HTML, CSS, Git, GitHub, VS Code">
+
 - **AI と一緒に作った作品で使ったもの**: React / Vite / Tailwind CSS / Vitest / Playwright
 - **開発の進め方**: Git・GitHub(PR・レビュー・Actions)/ Claude Code・Codex を使った開発 / Render へのデプロイ
 
 ## AI との開発について
 
 仕様を自分で書き、AI(Claude Code・Codex など)に実装させ、テストとレビューで確かめる進め方を多く使っています。各リポジトリの README に、どこまで自分で考え、どこを AI に任せたかを書いています。
+
+## GitHub での活動
+
+<img src="./profile/stats.svg" alt="GitHub の統計">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <img src="./profile/snake.svg" alt="草を食べるヘビ">
+</picture>
